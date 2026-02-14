@@ -14,5 +14,3 @@ print("Hello, Python Project!")
 # git commit -m "Meaningful message"
 # git push
 
-# ...
-
