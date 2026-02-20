@@ -14,3 +14,7 @@ print("Hello, Python Project!")
 # git commit -m "Meaningful message"
 # git push
 
+# To open new marimo notebook
+# Press Cmd+Shift+P (macOS) or Ctrl+Shift+P (Windows/Linux)
+# Run "Create: Marimo notebook"
+
